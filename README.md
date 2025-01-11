@@ -1,1 +1,1 @@
-# Inverted-search
+The Inverted Index Search project is a document retrieval system that implements the concept of an inverted index, a data structure mapping words or numbers to their respective locations in a set of files or documents. This project aims to provide efficient and fast full-text search capabilities by leveraging hash algorithms, reducing the time complexity for searching terms across large datasets. Widely used in search engines and information retrieval systems, inverted indexing allows precise word-based lookups and quick document retrieval.
